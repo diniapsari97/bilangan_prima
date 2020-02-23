@@ -1,0 +1,5 @@
+c:\users\dini apsari\documents\visual studio 2015\Projects\bilanganprima\bilanganprima\bin\Debug\bilanganprima.exe
+c:\users\dini apsari\documents\visual studio 2015\Projects\bilanganprima\bilanganprima\bin\Debug\bilanganprima.pdb
+c:\users\dini apsari\documents\visual studio 2015\Projects\bilanganprima\bilanganprima\obj\Debug\bilanganprima.csprojResolveAssemblyReference.cache
+c:\users\dini apsari\documents\visual studio 2015\Projects\bilanganprima\bilanganprima\obj\Debug\bilanganprima.exe
+c:\users\dini apsari\documents\visual studio 2015\Projects\bilanganprima\bilanganprima\obj\Debug\bilanganprima.pdb
